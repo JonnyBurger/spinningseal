@@ -1,3 +1,6 @@
+if (document.webkitHidden) {
+	return;
+}
 var s = document.createElement('script');
 s.src = chrome.extension.getURL("script.js");
 s.onload = function() {

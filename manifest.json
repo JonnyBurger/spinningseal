@@ -9,5 +9,5 @@
 		"js": ["background.js"]
 	}],
 	"web_accessible_resources": ["script.js", "seal.gif"],
-	"version": "0.0"
+	"version": "0.1"
 }
